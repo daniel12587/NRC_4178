@@ -40,13 +40,13 @@
 
 .footer-links a {
   display: block;
-  color: #ccc;
+  color: #ffffff;
   text-decoration: none;
   margin: 0.3rem 0;
 }
 
 .footer-links a:hover {
-  color: #ff0000;
+  color: #5c5a5a;
 }
 
 /* Redes sociales con íconos */
